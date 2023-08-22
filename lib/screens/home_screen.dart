@@ -1,4 +1,4 @@
-import 'package:azkar_app_code_center_2/screens/faqs_screen.dart';
+
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -12,7 +12,7 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   int _counter = 0;
   String _content = 'الحمد لله';
-
+ //home Screen
   @override
   Widget build(BuildContext context) {
     return
